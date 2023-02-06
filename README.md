@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 57 Contributions in the Year 2023
+> 🏆 58 Contributions in the Year 2023
  > 
 > 📦 215.0 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
@@ -29,12 +29,8 @@ Python                   1 repo              ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/daniel-junhui/daniel-junhui/main/charts/bar_graph.png) 
-
-
- Last Updated on 06/02/2023 18:11:57 UTC
+ Last Updated on 06/02/2023 18:19:55 UTC
 <!--END_SECTION:waka-->
 <!--
 **daniel-junhui/daniel-junhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
