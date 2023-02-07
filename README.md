@@ -19,6 +19,33 @@
  > 
 > 🔑 6 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
+🌆 Daytime    51 commits     ████████░░░░░░░░░░░░░░░░░   32.08% 
+🌃 Evening    77 commits     ████████████░░░░░░░░░░░░░   48.43% 
+🌙 Night      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.69%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -32,7 +59,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2023 16:53:38 UTC
+ Last Updated on 07/02/2023 17:48:21 UTC
 <!--END_SECTION:waka-->
 <!--
 **daniel-junhui/daniel-junhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
