@@ -33,33 +33,13 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Singapore
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in C++** 
-
-```text
-C++                      5 repos             █████████░░░░░░░░░░░░░░░░   38.46 % 
-C                        3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08 % 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-
 ```
 
 
-
- Last Updated on 08/02/2023 16:28:58 UTC
+ Last Updated on 08/02/2023 16:32:23 UTC
 <!--END_SECTION:waka-->
 <!--
 **daniel-junhui/daniel-junhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
