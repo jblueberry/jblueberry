@@ -5,7 +5,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--957%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -43,7 +43,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 19:49:17 UTC
+ Last Updated on 16/02/2023 21:47:21 UTC
 <!--END_SECTION:waka-->
 <!--
 **daniel-junhui/daniel-junhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
