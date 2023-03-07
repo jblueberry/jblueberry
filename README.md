@@ -1,4 +1,4 @@
-### Hi there 👋 I’m currently learning Rust. [CV](https://jhzhu.xyz/CV.pdf)
+### Hi there 👋 I’m currently learning Rust.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
