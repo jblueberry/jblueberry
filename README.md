@@ -1,6 +1,8 @@
 ### Hi there 👋 I’m currently learning Rust.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72.2%20thousand%20lines%20of%20code-blue)
@@ -17,6 +19,16 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+🌆 Daytime                42 commits          ██████████░░░░░░░░░░░░░░░   40.38 % 
+🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+🌙 Night                  19 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+```
+
+
 **I Mostly Code in C++** 
 
 ```text
@@ -30,7 +42,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2023 08:08:48 UTC
+ Last Updated on 23/11/2023 08:08:37 UTC
 <!--END_SECTION:waka-->
 <!--
 **daniel-junhui/daniel-junhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
