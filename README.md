@@ -1,17 +1,15 @@
 ### Hi there 👋 I’m currently learning Rust.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 223.2 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2023
+> 🏆 98 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -22,27 +20,27 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-🌆 Daytime                44 commits          ██████████░░░░░░░░░░░░░░░   41.51 % 
-🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-🌙 Night                  19 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+🌞 Morning                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+🌆 Daytime                44 commits          ██████████░░░░░░░░░░░░░░░   38.60 % 
+🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+🌙 Night                  19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      9 repos             █████████░░░░░░░░░░░░░░░░   36.00 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+C++                      9 repos             █████████░░░░░░░░░░░░░░░░   34.62 % 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 05/12/2023 08:08:54 UTC
+ Last Updated on 07/12/2023 08:08:41 UTC
 <!--END_SECTION:waka-->
 <!--
 **daniel-junhui/daniel-junhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
