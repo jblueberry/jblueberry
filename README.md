@@ -32,15 +32,15 @@ Studying
 ```text
 C++                      9 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 05/04/2024 08:08:21 UTC
+ Last Updated on 06/04/2024 08:07:28 UTC
 <!--END_SECTION:waka-->
 <!--
 **daniel-junhui/daniel-junhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
