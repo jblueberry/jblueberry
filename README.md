@@ -32,17 +32,17 @@ Studying
 **I Mostly Code in C++** 
 
 ```text
-C++                      13 repos            ██████████░░░░░░░░░░░░░░░   40.62 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+C++                      14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
 
 
 
- Last Updated on 08/05/2025 08:13:11 UTC
+ Last Updated on 09/05/2025 08:12:51 UTC
 <!--END_SECTION:waka-->
 <!--
 **daniel-junhui/daniel-junhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
