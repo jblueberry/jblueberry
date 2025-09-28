@@ -1,8 +1,6 @@
 Studying
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.7%20thousand%20lines%20of%20code-blue)
@@ -19,16 +17,6 @@ Studying
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-🌆 Daytime                89 commits          ██████████░░░░░░░░░░░░░░░   39.04 % 
-🌃 Evening                87 commits          ██████████░░░░░░░░░░░░░░░   38.16 % 
-🌙 Night                  32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-```
-
-
 **I Mostly Code in C++** 
 
 ```text
@@ -42,7 +30,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 08:10:52 UTC
+ Last Updated on 28/09/2025 08:11:07 UTC
 <!--END_SECTION:waka-->
 <!--
 **daniel-junhui/daniel-junhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
