@@ -1,8 +1,6 @@
 Studying
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.59%20thousand%20lines%20of%20code-blue?style=flat)
@@ -32,17 +30,17 @@ Studying
 **I Mostly Code in C++** 
 
 ```text
-C++                      15 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+C++                      15 repos            ████████████░░░░░░░░░░░░░   46.88 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 23/07/2026 10:08:55 UTC
+ Last Updated on 24/07/2026 10:03:25 UTC
 <!--END_SECTION:waka-->
 <!--
 **daniel-junhui/daniel-junhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
